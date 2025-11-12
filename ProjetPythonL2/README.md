@@ -19,7 +19,7 @@ Goals: prepare, visualize, and analyze factors influencing salaries, with an int
 
 ## Usage
 1. Ouvrir le notebook avec Jupyter Notebook / Open the notebook with Jupyter Notebook  
-2. Ou enregistrer `PROJET PYTHON.py` et `ds_salaries.csv` dans un même dossier, pour obtenir directement les résultats / Or run `PROJET PYTHON.py` to get the results
+2. Ou enregistrer `PROJET PYTHON.py` et `ds_salaries.csv` dans un même dossier, pour obtenir directement les résultats / Or run `PROJET PYTHON.py` and `ds_salaries.csv` to get the results
 
 ## Auteur / Author
 Fatine Amezziane
