@@ -17,7 +17,7 @@ Goals: prepare, visualize, and analyze factors influencing salaries, with an int
 - Python 3.x  
 - Bibliothèques : pandas, numpy, matplotlib, seaborn, scikit-learn  
 
-## Utilisation / Usage
+## Usage
 1. Ouvrir le notebook avec Jupyter Notebook / Open the notebook with Jupyter Notebook  
 2. Ou enregistrer `PROJET PYTHON.py` et `ds_salaries.csv` dans un même dossier, pour obtenir directement les résultats / Or run `PROJET PYTHON.py` to get the results
 
