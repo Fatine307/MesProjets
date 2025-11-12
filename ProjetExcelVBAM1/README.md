@@ -19,7 +19,7 @@ Objective: facilitate financial analysis, planning, and decision-making using in
 - `README.md` : explications et instructions / explanations and instructions  
 
 ## Prérequis / Requirements
--  # Avertissement : certaines fonctionnalités du projet ne sont pas prises en charge sur macOS. L’utilisation d’un ordinateur fonctionnant sous Windows avec Microsoft Excel est fortement recommandée. / # Warning : Some features of the project are not supported on macOS. It is strongly recommended to use a computer running Windows with Microsoft Excel.
+-  **Avertissement : certaines fonctionnalités du projet ne sont pas prises en charge sur macOS. L’utilisation d’un ordinateur fonctionnant sous Windows avec Microsoft Excel est fortement recommandée. / Warning : Some features of the project are not supported on macOS. It is strongly recommended to use a computer running Windows with Microsoft Excel.**
 - Microsoft Excel avec support VBA  
 - Activer les macros / Enable macros
 
